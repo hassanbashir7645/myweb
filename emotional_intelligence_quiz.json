@@ -1,0 +1,256 @@
+{
+  "title": "Emotional Intelligence Assessment",
+  "description": "This 25-question quiz evaluates your emotional intelligence across self-awareness, self-management, social awareness, and relationship management.",
+  "questions": [
+    {
+      "question": "When you feel overwhelmed at work, what do you typically notice first?",
+      "options": [
+        "Physical tension in your body",
+        "Changes in your thinking patterns",
+        "Your emotional reactions",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "How often do you reflect on what triggers your strong emotions?",
+      "options": [
+        "Never - I don't think about it",
+        "Rarely - only when something major happens",
+        "Sometimes - when I remember to",
+        "Regularly - it's part of my routine"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When receiving constructive feedback, your first instinct is usually to:",
+      "options": [
+        "Defend yourself and explain why they're wrong",
+        "Feel hurt but try not to show it",
+        "Listen carefully and ask clarifying questions",
+        "Thank them and quickly change the subject"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "You notice you're feeling irritated during a meeting. What's your most likely response?",
+      "options": [
+        "Try to push the feeling away and focus on the agenda",
+        "Take a moment to understand why you're feeling this way",
+        "Express your frustration directly to get it off your chest",
+        "Wait until the meeting ends to process your feelings"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How well do you understand your personal values and what matters most to you?",
+      "options": [
+        "I've never really thought about it",
+        "I have some ideas but they're not clear",
+        "I'm fairly clear on most of my core values",
+        "I have a very clear understanding of my values and how they guide my decisions"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When you make a mistake, you typically:",
+      "options": [
+        "Focus on who or what caused the problem",
+        "Feel embarrassed and try to hide it",
+        "Acknowledge it, learn from it, and move forward",
+        "Blame yourself harshly and dwell on it"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When you're feeling very stressed, which strategy do you find most effective?",
+      "options": [
+        "Venting to someone about the situation",
+        "Taking a break to do breathing exercises or brief meditation",
+        "Working harder to power through the stress",
+        "Distracting yourself with entertainment or social media"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A colleague makes a comment that really annoys you during a team meeting. You:",
+      "options": [
+        "Immediately respond with your disagreement",
+        "Stay quiet but give them a disapproving look",
+        "Take a breath, consider their perspective, then respond thoughtfully",
+        "Make a mental note to address it with them privately later"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When facing a significant setback or disappointment, you typically:",
+      "options": [
+        "Feel defeated and lose motivation for several days",
+        "Bounce back quickly by focusing on solutions and next steps",
+        "Need time to process but then create a plan to move forward",
+        "Seek support from others before deciding how to proceed"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How do you handle situations where you need to wait for something important (like test results or job feedback)?",
+      "options": [
+        "I obsess over it and check constantly for updates",
+        "I try to distract myself completely until I hear back",
+        "I acknowledge my anxiety but continue with my normal activities",
+        "I don't usually feel anxious about these situations"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When you commit to a personal goal (like exercise or learning a skill), you:",
+      "options": [
+        "Start enthusiastically but often lose momentum after a few weeks",
+        "Set realistic milestones and adjust your approach as needed",
+        "Tend to be either all-in or completely off track",
+        "Follow through consistently, even when motivation is low"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In a heated discussion where you feel your emotions rising, you typically:",
+      "options": [
+        "Continue the discussion but raise your voice to make your point",
+        "Take a step back and suggest continuing the conversation later",
+        "Try to stay calm but your emotions leak through your tone",
+        "End the conversation abruptly to avoid saying something you'll regret"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During a presentation, you notice your audience seems disengaged. You:",
+      "options": [
+        "Continue with your planned presentation to cover all the material",
+        "Pause and ask if they have questions or need clarification",
+        "Speed up to finish quickly since they seem bored",
+        "Change your approach to be more interactive and engaging"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A teammate seems unusually quiet and withdrawn lately. Your approach is to:",
+      "options": [
+        "Give them space - they'll speak up if they want to",
+        "Ask them directly if something is wrong",
+        "Mention to your supervisor that you're concerned",
+        "Find a private moment to check in and offer support"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When someone is telling you about a problem they're facing, you can usually:",
+      "options": [
+        "Focus on the facts and logical solutions",
+        "Sense both their emotions and the underlying issues",
+        "Relate it to similar experiences you've had",
+        "Listen patiently but struggle to know how to respond"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In group settings, you typically:",
+      "options": [
+        "Focus on sharing your own ideas and perspectives",
+        "Observe the group dynamics and adjust your participation accordingly",
+        "Wait for others to speak first before contributing",
+        "Take charge of keeping the discussion on track"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When someone disagrees with your idea in a meeting, you can usually tell:",
+      "options": [
+        "Only when they explicitly state their disagreement",
+        "From their body language and tone, even if they don't say so directly",
+        "When they ask challenging questions",
+        "I typically don't notice unless it's very obvious"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "You walk into a room where two colleagues were clearly having an intense conversation that stops when you enter. You:",
+      "options": [
+        "Apologize for interrupting and offer to come back later",
+        "Pretend you didn't notice and proceed with your business",
+        "Ask if everything is okay",
+        "Make a light comment to ease the tension"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When working with people from different cultural backgrounds, you:",
+      "options": [
+        "Treat everyone the same way to be fair",
+        "Pay attention to different communication styles and adapt accordingly",
+        "Focus on work tasks and avoid personal interactions",
+        "Ask them directly about their cultural preferences"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When you need to give difficult feedback to a colleague, you:",
+      "options": [
+        "Put it off until it becomes a bigger problem",
+        "Be direct and honest about what needs to change",
+        "Focus on specific behaviors and their impact, while remaining supportive",
+        "Ask your supervisor to handle it instead"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A team member consistently misses deadlines, affecting the whole project. You:",
+      "options": [
+        "Cover for them to keep the project on track",
+        "Have a private conversation to understand what's happening and offer support",
+        "Report the issue to management immediately",
+        "Express your frustration to other team members"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When mediating between two conflicting viewpoints in your team, you typically:",
+      "options": [
+        "Take the side that makes the most logical sense",
+        "Help each person understand the other's perspective",
+        "Suggest they work it out themselves",
+        "Propose a compromise that splits the difference"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Your approach to building rapport with new colleagues is to:",
+      "options": [
+        "Focus on work topics to establish professional credibility",
+        "Find common interests and shared experiences",
+        "Wait for them to make the first move toward friendship",
+        "Invite them to social events outside of work"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When someone comes to you with an emotional problem, you usually:",
+      "options": [
+        "Listen and offer practical solutions",
+        "Listen empathetically and help them process their feelings",
+        "Suggest they talk to someone more qualified",
+        "Share a similar experience you've had"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a team where there's ongoing tension between members, you:",
+      "options": [
+        "Stay neutral and focus on your own work",
+        "Try to address the underlying issues affecting team dynamics",
+        "Take sides with whoever you think is right",
+        "Suggest the team leader handle the situation"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

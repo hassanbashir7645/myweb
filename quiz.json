@@ -1,0 +1,106 @@
+{
+  "title": "Integrity and Honesty Assessment",
+  "description": "A 20-question quiz designed to evaluate ethical decision-making, honesty, and integrity in professional scenarios.",
+  "questions": [
+    {
+      "question": "You accidentally damage a company laptop while working from home. No one saw it happen, and you could easily claim it was already broken when you received it. What do you do?",
+      "options": [
+        "Report the damage immediately and offer to pay for repairs",
+        "Try to fix it yourself first, then report if unsuccessful",
+        "Submit a support ticket claiming it was defective when received",
+        "Wait to see if anyone notices before deciding what to do"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "During an interview for a position you really want, you're asked about a skill you don't have but could learn quickly. You:",
+      "options": [
+        "Honestly state you don't have the skill but are eager to learn",
+        "Claim you have basic knowledge and hope to figure it out later",
+        "Exaggerate your experience to increase your chances",
+        "Redirect the conversation to skills you do have"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "You notice an error in your favor on your paycheck - you've been overpaid by $200. You:",
+      "options": [
+        "Report it to HR immediately",
+        "Wait a few pay periods to see if they notice",
+        "Keep quiet since it's their mistake",
+        "Mention it casually to your supervisor without formally reporting it"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A colleague asks you to cover for them by saying they were in a meeting when they were actually running personal errands. You:",
+      "options": [
+        "Agree to help them this one time",
+        "Refuse and explain why you can't lie for them",
+        "Suggest they speak with their supervisor directly",
+        "Agree but ask them not to put you in this position again"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "You realize you made a significant error in a report that has already been submitted to senior management. The deadline has passed and acknowledging the mistake might delay an important project. You:",
+      "options": [
+        "Immediately inform your supervisor about the error",
+        "Try to quietly fix it in the next version without mentioning the mistake",
+        "Hope no one notices and deals with it only if questioned",
+        "Wait to see if the error causes any actual problems before acting"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "You discover that a vendor your company works with has been overcharging for services by using inflated invoices. Your supervisor, who approved these invoices, asks you to keep this information confidential. You:",
+      "options": [
+        "Report the issue to higher management or appropriate authorities",
+        "Honor your supervisor's request but document everything",
+        "Confront the vendor directly about the overcharging",
+        "Discuss the situation with trusted colleagues first"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "You're offered a substantial discount on a personal purchase from a supplier your company does business with. The supplier mentions it's a \"thank you\" for your company's continued partnership. You:",
+      "options": [
+        "Accept the discount since it benefits both parties",
+        "Politely decline and explain your company's conflict of interest policy",
+        "Accept but report it to your supervisor for transparency",
+        "Ask your supervisor for permission before accepting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During a team meeting, you witness a colleague taking credit for work you know was done by someone else who isn't present. You:",
+      "options": [
+        "Speak up immediately to correct the record",
+        "Approach the colleague privately after the meeting",
+        "Inform the person whose work was taken about what happened",
+        "Stay silent to avoid workplace conflict"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "You learn that your company is about to lay off several employees, including a close friend. Your friend is about to make a major financial commitment (buying a house). You:",
+      "options": [
+        "Warn your friend subtly without revealing confidential information",
+        "Respect the confidentiality and say nothing",
+        "Suggest your friend postpone major financial decisions without explaining why",
+        "Tell your friend directly about the upcoming layoffs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "You're asked to participate in a hiring process, and one candidate is the child of a senior executive. This candidate is qualified but not the strongest applicant. You:",
+      "options": [
+        "Recommend them to maintain good relationships with leadership",
+        "Evaluate them purely on merit regardless of their connections",
+        "Recuse yourself from the decision due to potential bias",
+        "Give them slightly more favorable consideration due to their potential"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

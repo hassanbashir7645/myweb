@@ -1,0 +1,22 @@
+<!-- quiz.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Employee Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1 id="quiz-title"></h1>
+  <p id="quiz-desc"></p>
+  <div id="quiz-container"></div>
+  <button id="submit-btn">Submit</button>
+  <div id="result"></div>
+
+  <script src="quiz.js"></script>
+  <script>
+    // Pick the quiz to load
+    loadQuiz("quizzes/integrity_quiz.json");
+  </script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+{
+  "title": "Cognitive Aptitude Assessment",
+  "description": "A 15-question quiz designed to assess logical reasoning, numerical ability, and verbal comprehension.",
+  "questions": [
+    {
+      "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
+      "options": ["16", "24", "32", "48"],
+      "correctIndex": 2
+    },
+    {
+      "question": "If all roses are flowers and some flowers are red, which statement is definitely true?",
+      "options": [
+        "All roses are red",
+        "Some roses are red",
+        "Some roses may be red",
+        "No roses are red"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Calculate: 15% of 240",
+      "options": ["30", "36", "42", "48"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which word is closest in meaning to 'elaborate'?",
+      "options": ["Simple", "Detailed", "Quick", "Basic"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A train travels 120 miles in 2 hours. What is its average speed?",
+      "options": ["50 mph", "55 mph", "60 mph", "65 mph"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Complete the analogy: Book is to Reading as Fork is to ?",
+      "options": ["Kitchen", "Eating", "Metal", "Tool"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which number should replace the question mark: 3, 9, 27, ?",
+      "options": ["54", "72", "81", "108"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the opposite of 'optimistic'?",
+      "options": ["Happy", "Pessimistic", "Realistic", "Confident"],
+      "correctIndex": 1
+    },
+    {
+      "question": "If 5x + 3 = 23, what is the value of x?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is NOT a characteristic of good leadership?",
+      "options": ["Vision", "Empathy", "Micromanagement", "Communication"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Complete the pattern: Circle, Square, Triangle, Circle, Square, ?",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What percentage is 1/8?",
+      "options": ["10.5%", "12.5%", "15%", "16.5%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which word best completes the sentence: 'The scientist's hypothesis was _____ by the experimental results.'",
+      "options": ["confirmed", "denied", "ignored", "questioned"],
+      "correctIndex": 0
+    },
+    {
+      "question": "If you rearrange the letters in 'LISTEN', which word can you make?",
+      "options": ["SILENT", "TENDER", "SOFTLY", "GENTLE"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the next number in the sequence: 1, 1, 2, 3, 5, 8, ?",
+      "options": ["11", "12", "13", "15"],
+      "correctIndex": 2
+    }
+  ]
+}

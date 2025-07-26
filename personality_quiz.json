@@ -1,0 +1,27 @@
+{
+  "title": "Big Five Personality Assessment",
+  "description": "A 20-question quiz measuring five major personality traits: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",
+  "scaleLabels": ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"],
+  "questions": [
+    { "question": "I am the life of the party.", "category": "Extraversion", "reverse": false },
+    { "question": "I feel little concern for others.", "category": "Agreeableness", "reverse": true },
+    { "question": "I am always prepared.", "category": "Conscientiousness", "reverse": false },
+    { "question": "I get stressed out easily.", "category": "Neuroticism", "reverse": false },
+    { "question": "I have a rich vocabulary.", "category": "Openness", "reverse": false },
+    { "question": "I don't talk a lot.", "category": "Extraversion", "reverse": true },
+    { "question": "I am interested in people.", "category": "Agreeableness", "reverse": false },
+    { "question": "I leave my belongings around.", "category": "Conscientiousness", "reverse": true },
+    { "question": "I am relaxed most of the time.", "category": "Neuroticism", "reverse": true },
+    { "question": "I have difficulty understanding abstract ideas.", "category": "Openness", "reverse": true },
+    { "question": "I feel comfortable around people.", "category": "Extraversion", "reverse": false },
+    { "question": "I insult people.", "category": "Agreeableness", "reverse": true },
+    { "question": "I pay attention to details.", "category": "Conscientiousness", "reverse": false },
+    { "question": "I worry about things.", "category": "Neuroticism", "reverse": false },
+    { "question": "I have a vivid imagination.", "category": "Openness", "reverse": false },
+    { "question": "I keep in the background.", "category": "Extraversion", "reverse": true },
+    { "question": "I sympathize with others' feelings.", "category": "Agreeableness", "reverse": false },
+    { "question": "I make a mess of things.", "category": "Conscientiousness", "reverse": true },
+    { "question": "I seldom feel blue.", "category": "Neuroticism", "reverse": true },
+    { "question": "I am not interested in abstract ideas.", "category": "Openness", "reverse": true }
+  ]
+}
